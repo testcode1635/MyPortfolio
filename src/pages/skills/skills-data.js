@@ -1,6 +1,5 @@
 import L_HTML5 from "../../assets/img/skills/html-5.svg";
 import L_CSS3 from "../../assets/img/skills/css3.svg";
-import L_SASS from "../../assets/img/skills/sass-1.svg";
 import L_BOOTSTRAP from "../../assets/img/skills/bootstrap-4.svg";
 import L_REACT from "../../assets/img/skills/react.svg";
 import L_REDUX from "../../assets/img/skills/redux.svg";
@@ -21,7 +20,6 @@ import L_HEROKU from "../../assets/img/skills/heroku.svg";
 import L_DIGITAL_OCEAN from "../../assets/img/skills/digital-ocean.svg";
 import L_GITHUB_PAGES from "../../assets/img/skills/github.svg";
 import L_JAVASCRIPT from "../../assets/img/skills/javascript.svg";
-import L_TYPESCRIPT from "../../assets/img/skills/typescript.svg";
 import L_GOLANG from "../../assets/img/skills/go-6.svg";
 import L_PYTHON from "../../assets/img/skills/python.svg";
 

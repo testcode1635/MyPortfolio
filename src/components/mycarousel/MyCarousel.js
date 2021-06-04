@@ -6,7 +6,7 @@ import Slider2 from "../../assets/img/carousal/slide2.webp";
 import Slider3 from "../../assets/img/carousal/slide3.webp";
 import ScrollDown from "../scroll-down/ScrollDown";
 
-const MYCarousel = () => {
+const MyCarousel = () => {
   return (
     <div id="home">
       <Carousel controls={false} indicators interval={2500} pause={false}>
@@ -25,4 +25,4 @@ const MYCarousel = () => {
   );
 };
 
-export default MYCarousel;
+export default MyCarousel;

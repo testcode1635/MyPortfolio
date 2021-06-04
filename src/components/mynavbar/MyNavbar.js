@@ -1,5 +1,4 @@
 import React from "react";
-import PropTypes from "prop-types";
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 import Logo from "../../assets/icons/logow.webp";
@@ -29,7 +28,5 @@ const MyNavbar = () => {
     </>
   );
 };
-
-MyNavbar.propTypes = {};
 
 export default MyNavbar;

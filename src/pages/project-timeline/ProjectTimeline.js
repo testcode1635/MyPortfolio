@@ -1,6 +1,6 @@
 import React from "react";
 import "./project-timeline.style.css";
-import {Timeline,Events,UrlButton,ImageEvent,TextEvent,YouTubeEvent,} from "@merc/react-timeline";
+import {Timeline,Events,UrlButton,ImageEvent} from "@merc/react-timeline";
 import Accordion from 'react-bootstrap/Accordion';
 
 // projects

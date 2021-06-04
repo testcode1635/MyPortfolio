@@ -1,22 +1,22 @@
 .logo {
-    width: 25%;
+  width: 25%;
+}
+
+.nav-theme {
+  background-color: #101018f8;
+  font-size: 20px;
+}
+
+.animate-navbar {
+  box-shadow: 1px 1px 1px #222;
+  animation: moveDown 0.5s ease-in-out;
+}
+
+@keyframes moveDown {
+  from {
+    transform: translateY(-5rem);
   }
-  
-  .nav-theme {
-    background-color: #101018f8;
-    font-size: 20px;
+  to {
+    transform: translateY(0rem);
   }
-  
-  .animate-navbar {
-    box-shadow: 1px 1px 1px #222;
-    animation: moveDown 0.5s ease-in-out;
-  }
-  
-  @keyframes moveDown {
-    from {
-      transform: translateY(-5rem);
-    }
-    to {
-      transform: translateY(0rem);
-    }
-  }
+}

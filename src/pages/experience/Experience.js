@@ -8,7 +8,7 @@ import L_ACCENTURE from "../../assets/img/experience/accenture-3.svg";
 
 const Experience = () => {
     return (
-        <div className="pt-3 pb-3" id="skills" id="experience">
+        <div className="pt-3 pb-3" id="experience">
         <h1 className="text-center font-details-b pb-4">Experience</h1>
         <Jumbotron className="jumbo-style">
           <Container>
