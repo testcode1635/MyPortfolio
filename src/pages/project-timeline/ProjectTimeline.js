@@ -33,14 +33,14 @@ import L_MATERIALUI from "../../assets/img/skills/material-ui-1.svg";
 const ProjectTimeline = () => {
   return (
     <div id="projects">
-      <h1 className="text-center font-details-b pb-4">Projects</h1>
+      <h1 className="text-center font-details-b pb-4">My Projects</h1>
       <Timeline>
         <Events>
         {/* Project: Todo List With MUI */}
         <ImageEvent
             date="01/10/2020"
             className="text-center"
-            text="React ToDo App"
+            text="React & Laravel ToDo App"
             src={L_ReactToDoList}
             alt="React ToDo App"
           >
@@ -487,6 +487,7 @@ const ProjectTimeline = () => {
 
           {/* Project: RoboFriends */}
 
+{/*
           <ImageEvent
             date="14/01/2020"
             className="text-center"
@@ -596,10 +597,10 @@ const ProjectTimeline = () => {
                 </UrlButton>
               </div>
             </div>
-          </ImageEvent>
+          </ImageEvent>*/}
 
           {/* Project: Product_Hunt_Clone */}
-
+{/*
           <ImageEvent
             date="15/12/2019"
             className="text-center"
@@ -706,10 +707,11 @@ const ProjectTimeline = () => {
                 </UrlButton>
               </div>
             </div>
-          </ImageEvent>
+          </ImageEvent> */}
 
           {/* Project: Portfolio using Django */}
-          <ImageEvent
+
+      {/*    <ImageEvent
             date="07/12/2019"
             className="text-center"
             text="Portfolio using Django"
@@ -837,7 +839,7 @@ const ProjectTimeline = () => {
                 </UrlButton>
               </div>
             </div>
-          </ImageEvent>
+          </ImageEvent>*/}
         </Events>
       </Timeline>
     </div>

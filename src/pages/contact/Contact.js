@@ -25,7 +25,7 @@ const Contact = () => {
             </div>
             <div className="m-2">
               <a
-                href="https://www.linkedin.com/in/anand-kumar-jha-745798a4/"
+                href="https://www.linkedin.com/in/sujon-pramanik-3a1baba2/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -37,7 +37,7 @@ const Contact = () => {
 
             <div className="m-2">
               <a
-                href="https://github.com/akjha96"
+                href="https://github.com/testcode1635"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -46,6 +46,7 @@ const Contact = () => {
                 </Button>
               </a>
             </div>
+             {/*
             <div className="m-2">
               <a
                 href="https://www.youtube.com/user/MrAkjha96/"
@@ -60,7 +61,8 @@ const Contact = () => {
                   <i class="fab fa-youtube"></i> Youtube
                 </Button>
               </a>
-            </div>
+            </div> */}
+             {/*
             <div className="m-2">
               <a
                 href="https://twitter.com/akjha96"
@@ -71,7 +73,7 @@ const Contact = () => {
                   <i className="fab fa-twitter"></i> Twitter
                 </Button>
               </a>
-            </div>
+            </div> */}
             <div className="m-2">
               <a
                 href="https://www.facebook.com/profile.php?id=100034554078932"
